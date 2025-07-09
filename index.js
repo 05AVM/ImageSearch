@@ -3,7 +3,7 @@ const access_key="bUb2SXkWGZcBuz-O5g1Gkim2ToOJrTiiyPM4QAEGOzM"
 const formEl=document.querySelector("form")
 const inputEl=document.getElementById("search-input")
 const searchResults=document.querySelector(".search-results")
-const showMore=document.getElementById("show-more-button")
+const showMore=document.getElementById("show-more")
 
 let inputData=""//this iput data will store all the keywords any user searches in the input section.
 let page=1;
